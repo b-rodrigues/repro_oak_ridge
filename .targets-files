@@ -66,10 +66,13 @@
 .quarto/_freeze/index/libs/revealjs/plugin/zoom/zoom.js
 .quarto/project-cache/bf5b60f8e59b047f99413e09fb957aba
 .quarto/project-cache/f8f8947983eeef1bfc930e5f2e6f7ed6
+.quarto/xref/047a1782
 .quarto/xref/282f2e76
 .quarto/xref/INDEX
+.quarto/xref/d6d08a1d
 .quarto/xref/e3b44511
 .targets-files
+.targets-runs/
 _freeze/index/execute-results/pptx.json
 _freeze/index/libs/revealjs/dist/reset.css
 _freeze/index/libs/revealjs/dist/reveal.css
