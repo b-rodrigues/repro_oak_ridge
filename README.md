@@ -1,5 +1,7 @@
-Repository for my workshop for Ukraine I gave on the 20th of June 2025.
+# Reproducible data science environments with {rix}
 
-Slides can be found here: https://b-rodrigues.github.io/repro_ukraine
+Repository for my workshop at Oak Ridge National Laboratory on January 23rd, 2026.
+
+Slides can be found here: https://b-rodrigues.github.io/repro_oak_ridge
 
 Code examples can be found under `scripts/nix_expressions/`
