@@ -159,12 +159,12 @@ rix(date = "2025-06-09",
 ```
 
 - Julia: use `jl_conf = list(jl_version = "1.10", jl_pkgs = c(...))`
-- See: `scripts/nix_expressions/02_native_vscode_example/`
+- See: `scripts/nix_expressions/02_native_positron_example/`
 
 ## Demo
 
 - Basics: `scripts/nix_expressions/01_rix_intro/`
-- Native VS Code/Positron on Windows: `scripts/nix_expressions/02_native_vscode_example/`
+- Native VS Code/Positron on Windows: `scripts/nix_expressions/02_native_positron_example/`
 - Nix and `{targets}`: `scripts/nix_expressions/03_nix_targets_pipeline`
 - Nix and Docker: `scripts/nix_expressions/04_docker/`
 - Nix and `{shiny}`: `scripts/nix_expressions/05_shiny`
